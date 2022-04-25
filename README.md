@@ -1,2 +1,2 @@
 # pokedex
-https://bit.ly/37JvyHl
+https://kishandube.github.io/pokedex/
